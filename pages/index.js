@@ -214,7 +214,9 @@ const Home = (props) => {
             }
             .home-text {
               color: var(--dl-color-gray-white);
+              width: 100%;
               align-self: center;
+              text-align: center;
               font-family: Cabin;
             }
             .home-container2 {
