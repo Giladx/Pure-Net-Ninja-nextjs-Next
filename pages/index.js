@@ -196,7 +196,7 @@ const Home = (props) => {
           }
           @media (max-width: 479px) {
             .home-full-page {
-              height: 100vh;
+              height: auto;
               padding: var(--dl-space-space-unit);
             }
             .home-image {
